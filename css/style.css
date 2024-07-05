@@ -1,0 +1,10 @@
+.mainDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+}
